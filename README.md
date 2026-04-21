@@ -76,6 +76,7 @@ make all
 ## 🔹 Phase 1 — Object Storage
 
 <img width="2006" height="396" alt="image" src="https://github.com/user-attachments/assets/a0e49f37-724b-41f8-96f0-3bd5f7320832" />
+<img width="2172" height="556" alt="image" src="https://github.com/user-attachments/assets/9ee42bf1-378b-4e32-aaff-9df3b9dfc53c" />
 
 ---
 
@@ -84,15 +85,26 @@ make all
 
 <img width="1106" height="270" alt="image" src="https://github.com/user-attachments/assets/520c1b40-9d21-4216-9d63-d7b289deef0b" />
 
+<img width="1878" height="272" alt="image" src="https://github.com/user-attachments/assets/68c6f751-844e-4694-9f82-2ffb57158d83" />
+
+
 ## 🔹 Phase 3 — Index (Staging Area)
 <img width="1240" height="426" alt="image" src="https://github.com/user-attachments/assets/5d257ab2-2422-4c3b-80eb-6742d0c06a6b" />
 
+<img width="1990" height="246" alt="image" src="https://github.com/user-attachments/assets/2332f03f-4eba-4a99-a60a-7e31da15bb0c" />
 
 ---
 
 ## 🔹 Phase 4 — Commits & Log
 
 <img width="1474" height="1108" alt="image" src="https://github.com/user-attachments/assets/8dfaed39-b293-4b58-8559-74f70e6c66f3" />
+
+<img width="2072" height="1290" alt="image" src="https://github.com/user-attachments/assets/5195dcb4-44ec-45ec-8e87-caf41a0aa4ec" />
+
+<img width="2252" height="1402" alt="image" src="https://github.com/user-attachments/assets/31049c43-3c60-47e8-90a6-3429032c52ea" />
+
+<img width="1990" height="1368" alt="image" src="https://github.com/user-attachments/assets/98386ade-58d6-4fcf-a4ba-5ec6ca4d2f95" />
+
 
 
 ---
