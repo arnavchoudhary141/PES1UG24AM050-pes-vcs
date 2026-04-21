@@ -98,7 +98,7 @@ make all
 ---
 
 
-5. Analysis Questions
+**5. Analysis Questions**
 Q5.1 — Branching and Checkout
 To implement pes checkout <branch>:
 
